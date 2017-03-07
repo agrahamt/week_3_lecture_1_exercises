@@ -1,0 +1,12 @@
+$azur-blue:#216ff6;
+
+h1,h2,h3 {
+  background-color: $azur-blue;
+  color: white;
+  padding: 5px;
+}
+
+.content a {
+  color: $azur-blue;
+  text-decoration: underline;
+}
