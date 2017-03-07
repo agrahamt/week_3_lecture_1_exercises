@@ -1,0 +1,15 @@
+$font: Helvetica, sans-serif;
+p {
+  font:$font;
+  margin: 15px 0;
+}
+p a {
+
+  font:$font;
+  text-decoration: underline;
+}
+.button {
+
+  font:$font;
+  padding: 10px;
+}
